@@ -1,0 +1,41 @@
+{
+  "event_grid": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "1",
+            "h_alignment": "center",
+			"item_size": 50,
+            "rows": [
+              [
+                "monitor01",
+                "monitor02",
+                "monitor03"
+              ],
+              [
+                "monitor04",
+                "monitor05",
+                "monitor06"
+              ],
+              [
+                "monitor07",
+                "monitor08",
+                "monitor09",
+                "monitor10",
+                "monitor11"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+[
+    {
+		"name": "Portal Gun",
+		"type": "toggle",
+		"img": "images/items/portalGun.png",
+		"codes": "portalGun"
+	},
+    {
+		"name": "Upgraded Portal Gun",
+		"type": "toggle",
+		"img": "images/items/uportalGun.png",
+		"codes": "uportalGun"
+	},
+    {
+		"name": "PotatOS",
+		"type": "toggle",
+		"img": "images/items/potatOS.png",
+		"codes": "potatOS"
+	},
+	{
+		"name": "Weighted Cubes",
+		"type": "toggle",
+		"img": "images/items/weightedcube.png",
+		"codes": "weightedcube"
+	},
+    {
+		"name": "Redirection Cubes",
+		"type": "toggle",
+		"img": "images/items/lasercube.png",
+		"codes": "lasercube"
+	},
+    {
+		"name": "Antique Cubes",
+		"type": "toggle",
+		"img": "images/items/antiquecube.png",
+		"codes": "antiquecube"
+	},
+    {
+		"name": "Frankenturrets",
+		"type": "toggle",
+		"img": "images/items/frankencube.png",
+		"codes": "frankencube"
+	},
+    {
+		"name": "Spherical Cubes",
+		"type": "toggle",
+		"img": "images/items/ballcube.png",
+		"codes": "ballcube"
+	},
+    {
+		"name": "Button",
+		"type": "toggle",
+		"img": "images/items/button.png",
+		"codes": "button"
+	},
+    {
+		"name": "Antique Button",
+		"type": "toggle",
+		"img": "images/items/antiquebutton.png",
+		"codes": "antiquebutton"
+	},
+    {
+		"name": "Weighted Floor Button",
+		"type": "toggle",
+		"img": "images/items/weightedfloorbutton.png",
+		"codes": "weightedfloorbutton"
+	},
+    {
+		"name": "Antique Floor Button",
+		"type": "toggle",
+		"img": "images/items/antiquefloorbutton.png",
+		"codes": "antiquefloorbutton"
+	},
+    {
+		"name": "Spherical Floor Button",
+		"type": "toggle",
+		"img": "images/items/ballfloorbutton.png",
+		"codes": "ballfloorbutton"
+	},
+    {
+		"name": "Three Gels",
+		"type": "toggle",
+		"img": "images/items/gels.png",
+		"codes": "gels"
+	},
+    {
+		"name": "Laser Emitter",
+		"type": "toggle",
+		"img": "images/items/laseremitter.png",
+		"codes": "laseremitter"
+	},
+    {
+		"name": "Laser Relay",
+		"type": "toggle",
+		"img": "images/items/laserrelay.png",
+		"codes": "laserrelay"
+	},
+    {
+		"name": "Laser Catcher",
+		"type": "toggle",
+		"img": "images/items/lasercatcher.png",
+		"codes": "lasercatcher"
+	},
+    {
+		"name": "Aerial Faith Plates",
+		"type": "toggle",
+		"img": "images/items/faithplate.png",
+		"codes": "faithplate"
+	},
+    {
+		"name": "Excursion Funnels",
+		"type": "toggle",
+		"img": "images/items/funnel.png",
+		"codes": "funnel"
+	},
+    {
+		"name": "Hard Light Bridges",
+		"type": "toggle",
+		"img": "images/items/lightbridge.png",
+		"codes": "lightbridge"
+	},
+    {
+		"name": "Turrets",
+		"type": "toggle",
+		"img": "images/items/turret.png",
+		"codes": "turret"
+	},
+    {
+		"name": "Space Core",
+		"type": "toggle",
+		"img": "images/items/spacecore.png",
+		"codes": "spacecore"
+	},
+    {
+		"name": "Adventure Core",
+		"type": "toggle",
+		"img": "images/items/advcore.png",
+		"codes": "advcore"
+	},
+    {
+		"name": "Fact Core",
+		"type": "toggle",
+		"img": "images/items/factcore.png",
+		"codes": "factcore"
+	}
+]

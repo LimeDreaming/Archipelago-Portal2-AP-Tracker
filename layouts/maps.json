@@ -1,0 +1,749 @@
+{
+    "gamemaps":{
+        "type": "tabbed",
+        "tabs":[
+            {
+                "title": "Chapter 1",
+                "v_alignment": "stretch",
+                "content":{
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Container Ride",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a1_intro1"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Portal Carousel",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a1_intro2"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Portal Gun",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a1_intro3"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Smooth Jazz",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a1_intro4"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Cube Momentum",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a1_intro5"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Future Starter",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a1_intro6"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Secret Panel",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a1_intro7"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Wake Up",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a1_wakeup"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Incinerator",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a2_intro"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Chapter 2",
+                "v_alignment": "stretch",
+                "content":{
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Laser Intro",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a2_laser_intro"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Laser Stairs",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a2_laser_stairs"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Dual Lasers",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a2_dual_lasers"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Laser Over Goo",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a2_laser_over_goo"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Catapult Intro",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a2_catapult_intro"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Trust Fling",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a2_trust_fling"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Pit Flings",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a2_pit_flings"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Fizzler Intro",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a2_fizzler_intro"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Chapter 3",
+                "v_alignment": "stretch",
+                "content":{
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Ceiling Catapult",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a2_sphere_peek"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Ricochet",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a2_ricochet"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Bridge Intro",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a2_bridge_intro"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Bridge the Gap",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a2_bridge_the_gap"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Turret Intro",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a2_turret_intro"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Laser Relays",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a2_laser_relays"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Turret Blocker",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a2_turret_blocker"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Laser Vs. Turret",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a2_laser_vs_turret"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Pull The Rug",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a2_pull_the_rug"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Chapter 4",
+                "v_alignment": "stretch",
+                "content":{
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Column Blocker",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a2_column_blocker"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Laser Chaining",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a2_laser_chaining"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Triple Laser",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a2_triple_laser"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Jailbreak",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a2_bts1"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Escape",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a2_bts2"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Chapter 5",
+                "v_alignment": "stretch",
+                "content":{
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Turret Factory",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a2_bts3"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Turret Sabotage",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a2_bts4"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Neurotoxin Sabotage",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a2_bts5"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Core",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a2_core"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Chapter 6",
+                "v_alignment": "stretch",
+                "content":{
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Underground",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a3_01"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Cave Johnson",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a3_03"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Repulsion Intro",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a3_jump_intro"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Bomb Flings",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a3_bomb_flings"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Crazy Box",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a3_crazy_box"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "PotatOS",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a3_transition01"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Chapter 7",
+                "v_alignment": "stretch",
+                "content":{
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Propulsion Intro",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a3_speed_ramp"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Propulsion Flings",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a3_speed_flings"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Conversion Intro",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a3_portal_intro"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Three Gels",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a3_end"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Chapter 8",
+                "v_alignment": "stretch",
+                "content":{
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Test",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a4_intro"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Funnel Intro",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a4_tb_intro"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Ceiling Button",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a4_tb_trust_drop"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Wall Button",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a4_tb_wall_button"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Polarity",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a4_tb_polarity"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Funnel Catch",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a4_tb_catch"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Stop The Box",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a4_stop_the_box"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Laser Catapult",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a4_laser_catapult"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Laser Platform",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a4_laser_platform"
+                                ]
+                            }
+                        }
+                        ,
+                        {
+                            "title": "Propulsion Catch",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a4_speed_tb_catch"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Repulsion Polarity",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a4_jump_polarity"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Chapter 9",
+                "v_alignment": "stretch",
+                "content":{
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Finale 1",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a4_finale1"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Finale 2",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a4_finale2"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Finale 3",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a4_finale3"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Finale 4",
+                            "v_alignment": "stretch",
+                            "h_alignment": "stretch",
+                            "content": {
+                                "type": "map",
+                                "maps":[
+                                    "sp_a4_finale4"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

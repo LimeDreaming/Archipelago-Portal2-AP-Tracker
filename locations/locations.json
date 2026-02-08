@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Weighted Cube",
+		"sections": [
+			{
+				"name": "Weighted Cube",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "@Places/tutorial, $canSolve|158002-158004" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "sp_a1_intro1",
+				"x": 910,
+				"y": 560
+			}
+		]
+	},
+	{
+		"name": "Floor Button",
+		"sections": [
+			{
+				"name": "Floor Button",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "@Places/tutorial, $canSolve|158002-158004" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "sp_a1_intro1",
+				"x": 600,
+				"y": 680
+			}
+		]
+	},
+	{
+		"name": "Exit Door",
+		"sections": [
+			{
+				"name": "Complete Container Ride",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "@Places/tutorial, $canSolve|158002-158004" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "sp_a1_intro1",
+				"x": 1210,
+				"y": 534
+			}
+		]
+	}
+]

@@ -1,0 +1,27 @@
+{
+	"portal_items": {
+		"type": "array",
+		"orientation": "vertical",
+		"margin": "0,0",
+		"content": [
+			{
+				"type": "array",
+				"orientation": "horizontal",
+				"margin": "0,0",
+				"content": [
+					{
+						"type": "itemgrid",
+						"item_margin": "1",
+						"h_alignment": "left",
+						"item_size": 50,
+						"rows": [
+							[ "uportalGun", "potatOS", "weightedcube", "lasercube", "antiquecube", "frankencube", "ballcube", "button", "antiquebutton" ],
+							[ "gels", "faithplate", "weightedfloorbutton", "antiquefloorbutton", "ballfloorbutton", "laseremitter", "lasercatcher", "laserrelay", "funnel" ],
+							[ "lightbridge", "turret", "spacecore", "advcore", "factcore" ]
+						]
+					}
+				]
+			}
+		]
+	}
+}

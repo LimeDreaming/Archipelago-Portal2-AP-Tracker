@@ -1,0 +1,58 @@
+[
+	{
+		"name": "sp_a1_intro1",
+		"location_size": 30,
+		"location_border_thickness": 5,
+		"img": "images/map/sp_a1_intro1.png"
+	},
+	{
+		"name": "sp_a1_intro2",
+		"location_size": 30,
+		"location_shape": "diamond",
+		"location_border_thickness": 5,
+		"img": "images/WitnessMapMetro.png"
+	},
+	{
+		"name": "sp_a1_intro3",
+		"location_size": 15,
+		"location_border_thickness": 5,
+		"img": "images/WitnessMapWithUnderground.png"
+	},
+	{
+		"name": "sp_a1_intro4",
+		"location_size": 30,
+		"location_border_thickness": 5,
+		"img": "images/WitnessMapWithUnderground.png"
+	},
+	{
+		"name": "sp_a1_intro5",
+		"location_size": 15,
+		"location_border_thickness": 5,
+		"img": "images/WitnessMapWithUnderground.png"
+	},
+	{
+		"name": "sp_a1_intro6",
+		"location_size": 30,
+		"location_border_thickness": 5,
+		"img": "images/WitnessMapWithUnderground.png"
+	},
+	{
+		"name": "sp_a1_intro7",
+		"location_size": 15,
+		"location_border_thickness": 5,
+		"img": "images/WitnessMapWithUnderground.png"
+	},
+	{
+		"name": "sp_a1_wakeup",
+		"location_size": 30,
+		"location_border_thickness": 5,
+		"img": "images/WitnessMapWithUnderground.png"
+	}
+    ,
+	{
+		"name": "sp_a2_intro",
+		"location_size": 30,
+		"location_border_thickness": 5,
+		"img": "images/WitnessMapWithUnderground.png"
+	}
+]

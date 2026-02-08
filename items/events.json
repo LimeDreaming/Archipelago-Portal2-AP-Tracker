@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Monitor 1",
+    "type": "toggle",
+    "img": "/images/events/monitor01.png",
+    "codes": "monitor01"
+  },
+  {
+    "name": "Monitor 2",
+    "type": "toggle",
+    "img": "/images/events/monitor02.png",
+    "codes": "monitor02"
+  },
+  {
+    "name": "Monitor 3",
+    "type": "toggle",
+    "img": "/images/events/monitor03.png",
+    "codes": "monitor03"
+  },
+  {
+    "name": "Monitor 4",
+    "type": "toggle",
+    "img": "/images/events/monitor04.png",
+    "codes": "monitor04"
+  },
+  {
+    "name": "Monitor 5",
+    "type": "toggle",
+    "img": "/images/events/monitor05.png",
+    "codes": "monitor05"
+  },
+  {
+    "name": "Monitor 6",
+    "type": "toggle",
+    "img": "/images/events/monitor06.png",
+    "codes": "monitor06"
+  },
+  {
+    "name": "Monitor 7",
+    "type": "toggle",
+    "img": "/images/events/monitor07.png",
+    "codes": "monitor07"
+  },
+  {
+    "name": "Monitor 8",
+    "type": "toggle",
+    "img": "/images/events/monitor08.png",
+    "codes": "monitor08"
+  },
+  {
+    "name": "Monitor 9",
+    "type": "toggle",
+    "img": "/images/events/monitor09.png",
+    "codes": "monitor09"
+  },
+  {
+    "name": "Monitor 10",
+    "type": "toggle",
+    "img": "/images/events/monitor10.png",
+    "codes": "monitor10"
+  },
+  {
+    "name": "Monitor 11",
+    "type": "toggle",
+    "img": "/images/events/monitor11.png",
+    "codes": "monitor11"
+  }
+]
