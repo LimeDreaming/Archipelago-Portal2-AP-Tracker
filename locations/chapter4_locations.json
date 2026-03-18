@@ -1,0 +1,92 @@
+[
+    {
+		"name": "Column Blocker Completion",
+		"sections": [
+			{
+				"name": "Complete Column Blocker",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "portalGun2, lightbridge, faithplate, button, lasercube,laseremitter, lasercatcher, laserrelay" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter1-5",
+				"x": 1199,
+				"y": 190
+			}
+		]
+	},
+	{
+		"name": "Laser Chaining Completion",
+		"sections": [
+			{
+				"name": "Complete Laser Chaining",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "portalGun2, faithplate, lasercube,laseremitter, lasercatcher, laserrelay" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter1-5",
+				"x": 1199,
+				"y": 282
+			}
+		]
+	},
+	{
+		"name": "Triple Laser Completion",
+		"sections": [
+			{
+				"name": "Complete Triple Laser",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "portalGun2, lasercube,laseremitter, lasercatcher" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter1-5",
+				"x": 1199,
+				"y": 375
+			}
+		]
+	},
+	{
+		"name": "Jailbreak Completion",
+		"sections": [
+			{
+				"name": "Complete Jailbreak",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "portalGun2, lightbridge, button, weightedcube" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter1-5",
+				"x": 1199,
+				"y": 468
+			}
+		]
+	},
+    {
+		"name": "Escape Completion",
+		"sections": [
+			{
+				"name": "Complete Escape",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "portalGun2" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter1-5",
+				"x": 1199,
+				"y": 561
+			}
+		]
+	}
+]

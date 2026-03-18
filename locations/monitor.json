@@ -1,0 +1,200 @@
+[
+    {
+		"name": "Monitor 1",
+		"sections": [
+			{
+				"name": "Monitor 1",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "monitor01, $canSolve|98275001 98275007" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "monitor",
+				"x": 78,
+				"y": 190
+			}
+		]
+	},
+	{
+		"name": "Monitor 2",
+		"sections": [
+			{
+				"name": "Monitor 2",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "@Monitor2/Checked, $canSolve|98275001 98275007" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "monitor",
+				"x": 78,
+				"y": 282
+			}
+		]
+	},
+	{
+		"name": "Monitor 3",
+		"sections": [
+			{
+				"name": "Monitor 3",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "@Monitor3/Checked, $canSolve|98275001 98275007" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "monitor",
+				"x": 78,
+				"y": 375
+			}
+		]
+	},
+	{
+		"name": "Monitor 4",
+		"sections": [
+			{
+				"name": "Monitor 4",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "@Monitor4/Checked, $canSolve|98275001 98275007" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "monitor",
+				"x": 78,
+				"y": 468
+			}
+		]
+	},
+    {
+		"name": "Monitor 5-6",
+		"sections": [
+			{
+				"name": "Monitor 5-6",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "@Monitor5/Checked, @Monitor6/Checked, $canSolve|98275001 98275007" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "monitor",
+				"x": 78,
+				"y": 561
+			}
+		]
+	},
+	{
+		"name": "Monitor 7",
+		"sections": [
+			{
+				"name": "Monitor 7",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "@Monitor7/Checked, $canSolve|98275001 98275007" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "monitor",
+				"x": 78,
+				"y": 654
+			}
+		]
+	},
+	{
+		"name": "Monitor 8",
+		"sections": [
+			{
+				"name": "Monitor 8",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "@Monitor8/Checked, $canSolve|98275001 98275007" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "monitor",
+				"x": 441,
+				"y": 190
+			}
+		]
+	},
+	{
+		"name": "Monitor 9",
+		"sections": [
+			{
+				"name": "Monitor 9",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "@Monitor9/Checked, $canSolve|98275001 98275007" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "monitor",
+				"x": 441,
+				"y": 282
+			}
+		]
+	},
+	{
+		"name": "Monitor 10",
+		"sections": [
+			{
+				"name": "Monitor 10",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "@Monitor10/Checked, $canSolve|98275001 98275007" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "monitor",
+				"x": 441,
+				"y": 375
+			}
+		]
+	},
+	{
+		"name": "Monitor 11",
+		"sections": [
+			{
+				"name": "Monitor 11",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "@Monitor11/Checked, $canSolve|98275001 98275007" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "monitor",
+				"x": 441,
+				"y": 468
+			}
+		]
+	},
+    {
+		"name": "Monitor 12",
+		"sections": [
+			{
+				"name": "Monitor 12",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "@Monitor12/Checked, $canSolve|98275001 98275007" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "monitor",
+				"x": 441,
+				"y": 561
+			}
+		]
+	}
+]

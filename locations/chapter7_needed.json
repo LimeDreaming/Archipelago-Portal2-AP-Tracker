@@ -1,0 +1,110 @@
+[
+    {
+        "name": "PropulsionIntro",
+        "children": [
+          {
+			
+            "name": "Needed to solve Test",
+            "visibility_rules": [
+              ""
+            ],
+			"color": "#ffff00",
+            "sections": [
+              {
+                "hosted_item": "uportalGun, laseremitter, lasercatcher",
+                "clear_as_group": false
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "chapter6-9",
+                "x": 704,
+                "y": 190,
+                "shape": "diamond"
+              }
+            ]
+          }
+		]
+	},
+    {
+        "name": "PropulsionFlings",
+        "children": [
+          {
+			
+            "name": "Needed to solve Test",
+            "visibility_rules": [
+              ""
+            ],
+			"color": "#ffff00",
+            "sections": [
+              {
+                "hosted_item": "uportalGun, lasercube ,weightedcube, laseremitter, lasercatcher",
+                "clear_as_group": false
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "chapter6-9",
+                "x": 704,
+                "y": 282,
+                "shape": "diamond"
+              }
+            ]
+          }
+		]
+	},
+    {
+        "name": "ConversionIntro",
+        "children": [
+          {
+			
+            "name": "Needed to solve Test",
+            "visibility_rules": [
+              ""
+            ],
+			"color": "#ffff00",
+            "sections": [
+              {
+                "hosted_item": "uportalGun, lasercube, laseremitter, lasercatcher",
+                "clear_as_group": false
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "chapter6-9",
+                "x": 704,
+                "y": 375,
+                "shape": "diamond"
+              }
+            ]
+          }
+		]
+	},
+    {
+        "name": "ThreeGels",
+        "children": [
+          {
+			
+            "name": "Needed to solve Test",
+            "visibility_rules": [
+              ""
+            ],
+			"color": "#ffff00",
+            "sections": [
+              {
+                "hosted_item": "uportalGun, button, weightedcube, weightedfloorbutton, laseremitter, lasercatcher",
+                "clear_as_group": false
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "chapter6-9",
+                "x": 704,
+                "y": 468,
+                "shape": "diamond"
+              }
+            ]
+          }
+		]
+	}
+]

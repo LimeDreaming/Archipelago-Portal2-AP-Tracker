@@ -1,0 +1,74 @@
+[
+    {
+		"name": "Finale 1 Completion",
+		"sections": [
+			{
+				"name": "Complete Finale 1",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "portalGun2, faithplate, funnel, gels" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter6-9",
+				"x": 1577,
+				"y": 190
+			}
+		]
+	},
+	{
+		"name": "Finale 2 Completion",
+		"sections": [
+			{
+				"name": "Complete Finale 2",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "portalGun2, funnel, gels, weightedfloorbutton" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter6-9",
+				"x": 1577,
+				"y": 282
+			}
+		]
+	},
+	{
+		"name": "Finale 3 Completion",
+		"sections": [
+			{
+				"name": "Complete Finale 3",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "portalGun2, funnel, gels" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter6-9",
+				"x": 1577,
+				"y": 375
+			}
+		]
+	},
+	{
+		"name": "Finale 4 Completion",
+		"sections": [
+			{
+				"name": "Complete Finale 4",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "portalGun2, gels, spacecore, advcore, factcore" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter6-9",
+				"x": 1577,
+				"y": 468
+			}
+		]
+	}
+]

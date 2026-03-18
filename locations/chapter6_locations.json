@@ -1,0 +1,110 @@
+[
+    {
+		"name": "Underground Completion",
+		"sections": [
+			{
+				"name": "Complete Underground",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "portalGun2, faithplate, button, lasercube,laseremitter, lasercatcher" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter6-9",
+				"x": 78,
+				"y": 190
+			}
+		]
+	},
+	{
+		"name": "Cave Johnson Completion",
+		"sections": [
+			{
+				"name": "Complete Cave Johnson",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "portalGun2, faithplate, button, weightedcube, weightedfloorbutton, lasercube, laseremitter, lasercatcher" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter6-9",
+				"x": 78,
+				"y": 282
+			}
+		]
+	},
+	{
+		"name": "Repulsion Intro Completion",
+		"sections": [
+			{
+				"name": "Complete Repulsion Intro",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "portalGun2, lightbridge, button, weightedcube, weightedfloorbutton" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter6-9",
+				"x": 78,
+				"y": 375
+			}
+		]
+	},
+	{
+		"name": "Bomb Flings Completion",
+		"sections": [
+			{
+				"name": "Complete Bomb Flings",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "portalGun2, lightbridge, button, weightedcube, weightedfloorbutton" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter6-9",
+				"x": 78,
+				"y": 468
+			}
+		]
+	},
+    {
+		"name": "Crazy Box Completion",
+		"sections": [
+			{
+				"name": "Complete Crazy Box",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "portalGun2, weightedcube, weightedfloorbutton" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter6-9",
+				"x": 78,
+				"y": 561
+			}
+		]
+	},
+	{
+		"name": "PotatOS Completion",
+		"sections": [
+			{
+				"name": "Complete PotatOS",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "portalGun2, lasercube, laseremitter, laserrelay" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter6-9",
+				"x": 78,
+				"y": 654
+			}
+		]
+	}
+]

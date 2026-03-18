@@ -1,0 +1,19 @@
+[
+	{
+		"name": "Places",
+		"sections": [
+			{
+				"name": "overworld"
+			},
+			{
+				"name": "tutorial"
+			},
+			{
+				"name": "ocean",
+				"access_rules": [
+					"Boat"
+				]
+			}
+		]
+	}
+]

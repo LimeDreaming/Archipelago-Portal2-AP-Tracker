@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Finale1",
+        "children": [
+          {
+			
+            "name": "Needed to solve Test",
+            "visibility_rules": [
+              ""
+            ],
+			"color": "#ffff00",
+            "sections": [
+              {
+                "hosted_item": "uportalGun, faithplate, funnel, gels",
+                "clear_as_group": false
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "chapter6-9",
+                "x": 1838,
+                "y": 190,
+                "shape": "diamond"
+              }
+            ]
+          }
+		]
+	},
+    {
+        "name": "Finale2",
+        "children": [
+          {
+			
+            "name": "Needed to solve Test",
+            "visibility_rules": [
+              ""
+            ],
+			"color": "#ffff00",
+            "sections": [
+              {
+                "hosted_item": "uportalGun, funnel, gels, weightedfloorbutton",
+                "clear_as_group": false
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "chapter6-9",
+                "x": 1838,
+                "y": 282,
+                "shape": "diamond"
+              }
+            ]
+          }
+		]
+	},
+    {
+        "name": "Finale3",
+        "children": [
+          {
+			
+            "name": "Needed to solve Test",
+            "visibility_rules": [
+              ""
+            ],
+			"color": "#ffff00",
+            "sections": [
+              {
+                "hosted_item": "uportalGun, funnel, gels",
+                "clear_as_group": false
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "chapter6-9",
+                "x": 1838,
+                "y": 375,
+                "shape": "diamond"
+              }
+            ]
+          }
+		]
+	},
+    {
+        "name": "Finale4",
+        "children": [
+          {
+			
+            "name": "Needed to solve Test",
+            "visibility_rules": [
+              ""
+            ],
+			"color": "#ffff00",
+            "sections": [
+              {
+                "hosted_item": "uportalGun, gels, spacecore, advcore, factcore",
+                "clear_as_group": false
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "chapter6-9",
+                "x": 1838,
+                "y": 468,
+                "shape": "diamond"
+              }
+            ]
+          }
+		]
+	}
+]

@@ -1,0 +1,74 @@
+[
+    {
+		"name": "Turret Factory Completion",
+		"sections": [
+			{
+				"name": "Complete Turret Factory",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "portalGun2" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter1-5",
+				"x": 1577,
+				"y": 190
+			}
+		]
+	},
+	{
+		"name": "Turret Sabotage Completion",
+		"sections": [
+			{
+				"name": "Complete Turret Sabotage",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "portalGun2, turret" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter1-5",
+				"x": 1577,
+				"y": 282
+			}
+		]
+	},
+	{
+		"name": "Neurotoxin Sabotage Completion",
+		"sections": [
+			{
+				"name": "Complete Neurotoxin Sabotage",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "portalGun2, laseremitter" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter1-5",
+				"x": 1577,
+				"y": 375
+			}
+		]
+	},
+	{
+		"name": "Core Completion",
+		"sections": [
+			{
+				"name": "Complete Core",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "portalGun2, button" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter1-5",
+				"x": 1577,
+				"y": 468
+			}
+		]
+	}
+]

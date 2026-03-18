@@ -1,0 +1,74 @@
+[
+    {
+		"name": "Propulsion Intro Completion",
+		"sections": [
+			{
+				"name": "Complete Propulsion Intro",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "portalGun2, laseremitter, lasercatcher" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter6-9",
+				"x": 441,
+				"y": 190
+			}
+		]
+	},
+	{
+		"name": "Propulsion Flings Completion",
+		"sections": [
+			{
+				"name": "Complete Propulsion Flings",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "portalGun2, lasercube ,weightedcube, laseremitter, lasercatcher" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter6-9",
+				"x": 441,
+				"y": 282
+			}
+		]
+	},
+	{
+		"name": "Conversion Intro Completion",
+		"sections": [
+			{
+				"name": "Complete Conversion Intro",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "portalGun2, lasercube, laseremitter, lasercatcher" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter6-9",
+				"x": 441,
+				"y": 375
+			}
+		]
+	},
+	{
+		"name": "Three Gels Completion",
+		"sections": [
+			{
+				"name": "Complete Three Gels",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "portalGun2, button, weightedcube, weightedfloorbutton, laseremitter, lasercatcher" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter6-9",
+				"x": 441,
+				"y": 468
+			}
+		]
+	}
+]

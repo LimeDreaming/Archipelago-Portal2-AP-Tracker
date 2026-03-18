@@ -1,0 +1,200 @@
+[
+    {
+		"name": "Test Completion",
+		"sections": [
+			{
+				"name": "Complete Test",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "portalGun2, frankencube, weightedfloorbutton, button" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter6-9",
+				"x": 821,
+				"y": 190
+			}
+		]
+	},
+	{
+		"name": "Funnel Intro Completion",
+		"sections": [
+			{
+				"name": "Complete Funnel Intro",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "portalGun2, funnel, frankencube, weightedfloorbutton" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter6-9",
+				"x": 821,
+				"y": 282
+			}
+		]
+	},
+	{
+		"name": "Ceiling Button Completion",
+		"sections": [
+			{
+				"name": "Complete Ceiling Button",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "portalGun2, funnel, frankencube, button, weightedfloorbutton" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter6-9",
+				"x": 821,
+				"y": 375
+			}
+		]
+	},
+	{
+		"name": "Wall Button Completion",
+		"sections": [
+			{
+				"name": "Complete Wall Button",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "portalGun2, funnel, frankencube, button, faithpalte, weightedfloorbutton" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter6-9",
+				"x": 821,
+				"y": 468
+			}
+		]
+	},
+    {
+		"name": "Polarity Completion",
+		"sections": [
+			{
+				"name": "Complete Polarity",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "portalGun2, funnel, frankencube, weightedfloorbutton" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter6-9",
+				"x": 821,
+				"y": 561
+			}
+		]
+	},
+	{
+		"name": "Funnel Catch Completion",
+		"sections": [
+			{
+				"name": "Complete Funnel Catch",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "portalGun2, funnel, frankencube, button, faithplate, weightedfloorbutton" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter6-9",
+				"x": 821,
+				"y": 654
+			}
+		]
+	},
+	{
+		"name": "Stop The Box Completion",
+		"sections": [
+			{
+				"name": "Complete Stop The Box",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "portalGun2, frankencube, faithplate, button, lightbridge, weightedfloorbutton" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter6-9",
+				"x": 1199,
+				"y": 190
+			}
+		]
+	},
+	{
+		"name": "Laser Catapult Completion",
+		"sections": [
+			{
+				"name": "Complete Laser Catapult",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "portalGun2, funnel, frankencube, faithplate, weightedfloorbutton, lasercube,laseremitter, lasercatcher" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter6-9",
+				"x": 1199,
+				"y": 282
+			}
+		]
+	},
+	{
+		"name": "Laser Platform Completion",
+		"sections": [
+			{
+				"name": "Complete Laser Platform",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "portalGun2, button, funnel, lasercube ,laseremitter, lasercatcher" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter6-9",
+				"x": 1199,
+				"y": 375
+			}
+		]
+	},
+	{
+		"name": "Propulsion Catch Completion",
+		"sections": [
+			{
+				"name": "Complete Propulsion Catch",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "portalGun2, funnel, frankencube, gels, button, weightedfloorbutton" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter6-9",
+				"x": 1199,
+				"y": 468
+			}
+		]
+	},
+    {
+		"name": "Repulsion Polarity Completion",
+		"sections": [
+			{
+				"name": "Complete Repulsion Polarity",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "portalGun2, funnel, gels, weightedfloorbutton, button" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter6-9",
+				"x": 1199,
+				"y": 561
+			}
+		]
+	}
+]

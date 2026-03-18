@@ -1,59 +1,20 @@
 [
 	{
-		"name": "sp_a1_intro1",
+		"name": "chapter1-5",
 		"location_size": 30,
 		"location_border_thickness": 5,
-		"img": "images/map/sp_a1_intro1.png"
+		"img": "images/map/graphmap01.png"
 	},
 	{
-		"name": "sp_a1_intro2",
-		"location_size": 30,
-		"location_shape": "diamond",
-		"location_border_thickness": 5,
-		"img": "images/map/sp_a1_intro2.png"
-	},
-	{
-		"name": "sp_a1_intro3",
-		"location_size": 15,
-		"location_border_thickness": 5,
-		"img": "images/map/sp_a1_intro3.png"
-	},
-	{
-		"name": "sp_a1_intro4",
+		"name": "chapter6-9",
 		"location_size": 30,
 		"location_border_thickness": 5,
-		"img": "images/map/sp_a1_intro4.png"
+		"img": "images/map/graphmap02.png"
 	},
 	{
-		"name": "sp_a1_intro5",
-		"location_size": 15,
-		"location_border_thickness": 5,
-		"img": "images/map/sp_a1_intro5.png"
-	},
-	{
-		"name": "sp_a1_intro6",
+		"name": "monitor",
 		"location_size": 30,
 		"location_border_thickness": 5,
-		"img": "images/map/sp_a1_intro6.png"
-	},
-	{
-		"name": "sp_a1_intro7",
-		"location_size": 15,
-		"location_border_thickness": 5,
-		"img": "images/map/sp_a1_intro7.png"
-	},
-	{
-		"name": "sp_a1_wakeup",
-		"location_size": 30,
-		"location_border_thickness": 5,
-		"img": "images/map/sp_a1_wakeup.png"
+		"img": "images/map/graphmap03.png"
 	}
-    ,
-	{
-		"name": "sp_a2_intro",
-		"location_size": 30,
-		"location_border_thickness": 5,
-		"img": "images/map/sp_a2_intro.png"
-	}
-
 ]
