@@ -18,19 +18,20 @@
               [
                 "monitor01",
                 "monitor02",
-                "monitor03"
+                "monitor03",
+                "monitor04"
               ],
               [
-                "monitor04",
                 "monitor05",
-                "monitor06"
+                "monitor06",
+                "monitor07",
+                "monitor08"
               ],
               [
-                "monitor07",
-                "monitor08",
                 "monitor09",
                 "monitor10",
-                "monitor11"
+                "monitor11",
+                "monitor12"
               ]
             ]
           }

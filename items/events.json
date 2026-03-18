@@ -64,5 +64,11 @@
     "type": "toggle",
     "img": "/images/events/monitor11.png",
     "codes": "monitor11"
+  },
+  {
+    "name": "Monitor 12",
+    "type": "toggle",
+    "img": "/images/events/monitor12.png",
+    "codes": "monitor12"
   }
 ]

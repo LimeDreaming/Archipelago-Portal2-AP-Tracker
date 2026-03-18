@@ -1,0 +1,146 @@
+[
+    {
+		"name": "Laser Intro Completion",
+		"sections": [
+			{
+				"name": "Complete Laser Intro",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "portalGun2, laseremitter, lasercatcher" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter1-5",
+				"x": 441,
+				"y": 190
+			}
+		]
+	},
+	{
+		"name": "Laser Stairs Completion",
+		"sections": [
+			{
+				"name": "Complete Laser Stairs",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "portalGun2, lasercube ,weightedcube, laseremitter, lasercatcher" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter1-5",
+				"x": 441,
+				"y": 282
+			}
+		]
+	},
+	{
+		"name": "Dual Lasers Completion",
+		"sections": [
+			{
+				"name": "Complete Dual Lasers",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "portalGun2, lasercube, laseremitter, lasercatcher" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter1-5",
+				"x": 441,
+				"y": 375
+			}
+		]
+	},
+	{
+		"name": "Laser Over Goo Completion",
+		"sections": [
+			{
+				"name": "Complete Laser Over Goo",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "portalGun2, button, weightedcube, weightedfloorbutton, laseremitter, lasercatcher" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter1-5",
+				"x": 441,
+				"y": 468
+			}
+		]
+	},
+    {
+		"name": "Catapult Intro Completion",
+		"sections": [
+			{
+				"name": "Complete Catapult Intro",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "faithplate, button, weightedcube, weightedfloorbutton" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter1-5",
+				"x": 441,
+				"y": 561
+			}
+		]
+	},
+	{
+		"name": "Trust Fling Completion",
+		"sections": [
+			{
+				"name": "Complete Trust Fling",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "portalGun2, faithplate, button, weightedcube, weightedfloorbutton" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter1-5",
+				"x": 441,
+				"y": 654
+			}
+		]
+	},
+	{
+		"name": "Pit Flings Completion",
+		"sections": [
+			{
+				"name": "Complete Pit Flings",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "portalGun2, button, weightedcube, laseremitter, lasercatcher" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter1-5",
+				"x": 441,
+				"y": 747
+			}
+		]
+	},
+	{
+		"name": "Fizzler Intro Completion",
+		"sections": [
+			{
+				"name": "Complete Fizzler Intro",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "portalGun2, button, lasercube, laseremitter, lasercatcher" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter1-5",
+				"x": 441,
+				"y": 840
+			}
+		]
+	}
+]

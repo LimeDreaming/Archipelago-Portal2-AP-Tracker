@@ -1,0 +1,162 @@
+[
+	{
+		"name": "Container Ride Completion",
+		"sections": [
+			{
+				"name": "Complete Container Ride",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "weightedfloorbutton, weightedcube" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter1-5",
+				"x": 78,
+				"y": 190
+			}
+		]
+	},
+	{
+		"name": "Portal Carousel Completion",
+		"sections": [
+			{
+				"name": "Complete Portal Carousel",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "button ,weightedcube, weightedfloorbutton" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter1-5",
+				"x": 78,
+				"y": 282
+			}
+		]
+	},
+	{
+		"name": "Portal Gun Completion",
+		"sections": [
+			{
+				"name": "Complete Portal Gun",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png"
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter1-5",
+				"x": 78,
+				"y": 375
+			}
+		]
+	},
+	{
+		"name": "Smooth Jazz Completion",
+		"sections": [
+			{
+				"name": "Complete Smooth Jazz",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "weightedcube, weightedfloorbutton" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter1-5",
+				"x": 78,
+				"y": 468
+			}
+		]
+	},
+    {
+		"name": "Cube Momentum Completion",
+		"sections": [
+			{
+				"name": "Complete Cube Momentum",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "button, weightedcube, weightedfloorbutton" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter1-5",
+				"x": 78,
+				"y": 561
+			}
+		]
+	},
+	{
+		"name": "Future Starter Completion",
+		"sections": [
+			{
+				"name": "Complete Future Starter",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "weightedcube, weightedfloorbutton" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter1-5",
+				"x": 78,
+				"y": 654
+			}
+		]
+	},
+	{
+		"name": "Secret Panel Completion",
+		"sections": [
+			{
+				"name": "Complete Secret Panel",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png"
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter1-5",
+				"x": 78,
+				"y": 747
+			}
+		]
+	},
+	{
+		"name": "Wake Up Completion",
+		"sections": [
+			{
+				"name": "Complete Wake Up",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png"
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter1-5",
+				"x": 78,
+				"y": 840
+			}
+		]
+	},
+	{
+		"name": "Incinerator Completion",
+		"sections": [
+			{
+				"name": "Complete Incinerator",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "portalGun2" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter1-5",
+				"x": 78,
+				"y": 933
+			}
+		]
+	}
+    
+]

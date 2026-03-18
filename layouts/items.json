@@ -15,7 +15,7 @@
 						"h_alignment": "left",
 						"item_size": 50,
 						"rows": [
-							[ "uportalGun", "potatOS", "weightedcube", "lasercube", "antiquecube", "frankencube", "ballcube", "button", "antiquebutton" ],
+							[ "portalGun1", "portalGun2", "potatOS", "weightedcube", "lasercube", "antiquecube", "frankencube", "ballcube", "button", "antiquebutton" ],
 							[ "gels", "faithplate", "weightedfloorbutton", "antiquefloorbutton", "ballfloorbutton", "laseremitter", "lasercatcher", "laserrelay", "funnel" ],
 							[ "lightbridge", "turret", "spacecore", "advcore", "factcore" ]
 						]

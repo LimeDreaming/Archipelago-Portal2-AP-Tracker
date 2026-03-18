@@ -1,0 +1,164 @@
+[
+    {
+		"name": "Ceiling Catapult Completion",
+		"sections": [
+			{
+				"name": "Complete Ceiling Catapult",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "portalGun2, faithplate, button, lasercube,laseremitter, lasercatcher" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter1-5",
+				"x": 821,
+				"y": 190
+			}
+		]
+	},
+	{
+		"name": "Ricochet Completion",
+		"sections": [
+			{
+				"name": "Complete Ricochet",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "portalGun2, faithplate, button, weightedcube, weightedfloorbutton, lasercube, laseremitter, lasercatcher" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter1-5",
+				"x": 821,
+				"y": 282
+			}
+		]
+	},
+	{
+		"name": "Bridge Intro Completion",
+		"sections": [
+			{
+				"name": "Complete Bridge Intro",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "portalGun2, lightbridge, button, weightedcube, weightedfloorbutton" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter1-5",
+				"x": 821,
+				"y": 375
+			}
+		]
+	},
+	{
+		"name": "Bridge the Gap Completion",
+		"sections": [
+			{
+				"name": "Complete Bridge the Gap",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "portalGun2, lightbridge, button, weightedcube, weightedfloorbutton" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter1-5",
+				"x": 821,
+				"y": 468
+			}
+		]
+	},
+    {
+		"name": "Turret Intro Completion",
+		"sections": [
+			{
+				"name": "Complete Turret Intro",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "portalGun2, weightedcube, weightedfloorbutton" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter1-5",
+				"x": 821,
+				"y": 561
+			}
+		]
+	},
+	{
+		"name": "Laser Relays Completion",
+		"sections": [
+			{
+				"name": "Complete Laser Relays",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "portalGun2, lasercube, laseremitter, laserrelay" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter1-5",
+				"x": 821,
+				"y": 654
+			}
+		]
+	},
+	{
+		"name": "Turret Blocker Completion",
+		"sections": [
+			{
+				"name": "Complete Turret Blocker",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "portalGun2, lightbridge, faithplate, weightedcube, weightedfloorbutton" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter1-5",
+				"x": 821,
+				"y": 747
+			}
+		]
+	},
+	{
+		"name": "Laser Vs. Turret Completion",
+		"sections": [
+			{
+				"name": "Complete Laser Vs. Turret",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "portalGun2, weightedcube, weightedfloorbutton, lasercube, laseremitter, lasercatcher" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter1-5",
+				"x": 821,
+				"y": 840
+			}
+		]
+	},
+	{
+		"name": "Pull The Rug Completion",
+		"sections": [
+			{
+				"name": "Complete Pull The Rug",
+				"chest_unopened_img": "/images/locations/uncheck.png",
+            	"chest_opened_img": "/images/locations/check.png",
+				"access_rules": [ "portalGun2, lightbridge, weightedcube, laseremitter, lasercatcher" ]
+			}
+		],
+		"map_locations": [
+			{
+				"map": "chapter1-5",
+				"x": 821,
+				"y": 933
+			}
+		]
+	}
+]

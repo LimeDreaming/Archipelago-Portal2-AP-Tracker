@@ -2,14 +2,14 @@
     {
 		"name": "Portal Gun",
 		"type": "toggle",
-		"img": "images/items/portalGun.png",
-		"codes": "portalGun"
+		"img": "images/items/portalGun_1.png",
+		"codes": "portalGun1"
 	},
     {
 		"name": "Upgraded Portal Gun",
 		"type": "toggle",
-		"img": "images/items/uportalGun.png",
-		"codes": "uportalGun"
+		"img": "images/items/portalGun_2.png",
+		"codes": "portalGun2"
 	},
     {
 		"name": "PotatOS",

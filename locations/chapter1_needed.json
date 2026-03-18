@@ -1,0 +1,164 @@
+[
+    {
+        "name": "ContainerRide",
+        "children": [
+          {
+			
+            "name": "Needed to solve Test",
+            "visibility_rules": [
+              ""
+            ],
+			"color": "#0000ff",
+            "sections": [
+              {
+                "hosted_item": "weightedcube, weightedfloorbutton",
+                "clear_as_group": false
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "chapter1-5",
+                "x": 339,
+                "y": 190,
+                "shape": "diamond"
+              }
+            ]
+          }
+		]
+	},
+    {
+        "name": "PortalCarousel",
+        "children": [
+          {
+			
+            "name": "Needed to solve Test",
+            "visibility_rules": [
+              ""
+            ],
+			"color": "#ffff00",
+            "sections": [
+              {
+                "hosted_item": "button ,weightedcube, weightedfloorbutton",
+                "clear_as_group": false
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "chapter1-5",
+                "x": 339,
+                "y": 282,
+                "shape": "diamond"
+              }
+            ]
+          }
+		]
+	},
+    {
+        "name": "SmoothJazz",
+        "children": [
+          {
+			
+            "name": "Needed to solve Test",
+            "visibility_rules": [
+              ""
+            ],
+			"color": "#ffff00",
+            "sections": [
+              {
+                "hosted_item": "weightedcube, weightedfloorbutton",
+                "clear_as_group": false
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "chapter1-5",
+                "x": 339,
+                "y": 468,
+                "shape": "diamond"
+              }
+            ]
+          }
+		]
+	},
+    {
+        "name": "CubeMomentum",
+        "children": [
+          {
+			
+            "name": "Needed to solve Test",
+            "visibility_rules": [
+              ""
+            ],
+			"color": "#ffff00",
+            "sections": [
+              {
+                "hosted_item": "button, weightedcube, weightedfloorbutton",
+                "clear_as_group": false
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "chapter1-5",
+                "x": 339,
+                "y": 561,
+                "shape": "diamond"
+              }
+            ]
+          }
+		]
+	},
+    {
+        "name": "FutureStarter",
+        "children": [
+          {
+			
+            "name": "Needed to solve Test",
+            "visibility_rules": [
+              ""
+            ],
+			"color": "#ffff00",
+            "sections": [
+              {
+                "hosted_item": "weightedcube, weightedfloorbutton",
+                "clear_as_group": false
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "chapter1-5",
+                "x": 339,
+                "y": 654,
+                "shape": "diamond"
+              }
+            ]
+          }
+		]
+	},
+    {
+        "name": "Incinerator",
+        "children": [
+          {
+			
+            "name": "Needed to solve Test",
+            "visibility_rules": [
+              ""
+            ],
+			"color": "#ffff00",
+            "sections": [
+              {
+                "hosted_item": "portalGun2",
+                "clear_as_group": false
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "chapter1-5",
+                "x": 339,
+                "y": 933,
+                "shape": "diamond"
+              }
+            ]
+          }
+		]
+	}
+]
